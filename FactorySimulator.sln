@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorySimulator", "FactorySimulator\FactorySimulator.csproj", "{F249C860-9720-4560-87C5-722F13E08E2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{A1F490DD-8ED6-4F4E-9368-FD038E777226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F249C860-9720-4560-87C5-722F13E08E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F249C860-9720-4560-87C5-722F13E08E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F249C860-9720-4560-87C5-722F13E08E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F249C860-9720-4560-87C5-722F13E08E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F490DD-8ED6-4F4E-9368-FD038E777226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F490DD-8ED6-4F4E-9368-FD038E777226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F490DD-8ED6-4F4E-9368-FD038E777226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F490DD-8ED6-4F4E-9368-FD038E777226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
