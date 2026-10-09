@@ -1,3 +1,10 @@
+using Application.CQRSInterfaces;
+using Domain;
+
 namespace Application.Commands;
 
-public record RegisterMachineCommand();
+/// <summary>
+/// Command for registering a Machine into a Production Line
+/// </summary>
+
+public record RegisterMachineCommand(Machine Machine) : ICommand;
